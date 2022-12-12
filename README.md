@@ -1,2 +1,2 @@
 # Alura
-Projetos feitos nos cursos da Alura
+Projetos feitos nos cursos da Alura: HTML, CSS...
