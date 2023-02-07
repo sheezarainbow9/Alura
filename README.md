@@ -9,14 +9,10 @@
 </p>
 
 
-### Tópicos 
-
-:small_blue_diamond: [Descrição do projeto](#descrição-do-projeto)
-
-## Descrição do projeto 
+## Descrição
 
 <p align="justify">
-  Projetos feitos nos cursos da Alura: HTML, CSS. Arquivos upados são do projeto de um site de uma barbearia fictícia.
+  Estudos feitos nos cursos da Alura de: HTML, CSS. Os arquivos aqui upados são do projeto de um site de uma barbearia fictícia.
 </p>
 
 
